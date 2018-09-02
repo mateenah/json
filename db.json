@@ -96,6 +96,12 @@
         "price": 199
       },
       {
+        "qty": 11,
+        "description": "ledger keeping",
+        "vat": 125,
+        "price": 199
+      },
+      {
         "qty": "3",
         "description": "invoicing service",
         "vat": 5,
